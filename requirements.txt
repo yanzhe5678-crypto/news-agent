@@ -1,0 +1,4 @@
+feedparser>=6.0
+requests>=2.31
+rapidfuzz>=3.6
+PyYAML>=6.0
